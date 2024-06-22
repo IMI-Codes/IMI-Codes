@@ -1,3 +1,2 @@
-### Hi, I'm Manasseh 👋
-
-⚫Studying Computer Science at Air Force Instiute of Technology, Kaduna, Nigeria <br/>
+# Welcome 👋
+## I'm Manasseh, nice to meet you.
